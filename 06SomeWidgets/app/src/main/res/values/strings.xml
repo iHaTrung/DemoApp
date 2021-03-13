@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">06SomeWidgets</string>
+
+    <string-array name="country">
+        <item>VietNam</item>
+        <item>Lao</item>
+        <item>Malaysia</item>
+        <item>ThaiLand</item>
+        <item>Japan</item>
+    </string-array>
+
+    <string-array name="university">
+        <item>HUST</item>
+        <item>HUS</item>
+        <item>NEU</item>
+        <item>ULIS</item>
+        <item>HUTECH</item>
+    </string-array>
+</resources>
